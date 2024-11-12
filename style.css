@@ -12,3 +12,7 @@ body {
     margin: 24px;
     font-family: "SF Pro Rounded", sans-serif;
 }
+
+h1 {
+    font-weight: bold;
+}
