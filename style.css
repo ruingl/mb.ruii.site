@@ -1,0 +1,14 @@
+@charset "UTF-8";
+
+/*!
+ * mb.ruii.site
+ * Copyright (c) 2024 Rui Reogo
+ * https://mb.ruii.site/
+ */
+
+body {
+    background-color: #121212;
+    color: white;
+    margin: 24px;
+    font-family: "SF Pro Rounded", sans-serif;
+}
